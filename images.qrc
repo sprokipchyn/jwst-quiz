@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>background.jpg</file>
+        <file>blurred-background.png</file>
+        <file>logo.png</file>
+        <file>images/carina-nebula-nircam.jpeg</file>
+        <file>images/cartwheel-galaxy-miri.png</file>
+        <file>images/deep-field.png</file>
+        <file>images/jupiter.png</file>
+        <file>images/neptune.png</file>
+        <file>images/position.png</file>
+        <file>images/southern-ring-nebula-miri.png</file>
+        <file>images/southern-ring-nebula-nircam.png</file>
+        <file>images/stephans-quintet-miri.png</file>
+        <file>images/stephans-quintet.jpeg</file>
+        <file>images/tarantul-nebula-nircam.png</file>
+        <file>images/instruments/fgs-niriss.jpeg</file>
+        <file>images/instruments/miri.jpeg</file>
+        <file>images/instruments/nircam.jpeg</file>
+        <file>images/instruments/nirspec.jpeg</file>
+    </qresource>
+</RCC>
